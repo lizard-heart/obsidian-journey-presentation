@@ -1,0 +1,11 @@
+{
+  "useForwardLinks": true,
+  "useBackLinks": true,
+  "useTags": false,
+  "skipMOCs": true,
+  "MOCMaxLinks": 22,
+  "enableHighContrast": false,
+  "skipFolders": "Journies/",
+  "enableLinks": true,
+  "enableTransclusion": true
+}

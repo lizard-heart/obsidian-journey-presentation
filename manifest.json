@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-map-between-notes-plugin",
+	"name": "Map between notes",
+	"version": "0.0.7",
+	"minAppVersion": "0.10.10",
+	"description": "Find a map between notes",
+	"author": "Henry Gustafson",
+	"authorUrl": "https://github.com/lizard-heart",
+	"isDesktopOnly": false
+}
